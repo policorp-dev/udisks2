@@ -1,9 +1,0 @@
-Index: udisks2/udisks/udisks2.conf.in
-===================================================================
---- udisks2.orig/udisks/udisks2.conf.in
-+++ udisks2/udisks/udisks2.conf.in
-@@ -8,3 +8,4 @@ modules_load_preference=ondemand
- [defaults]
- # Valid options are 'luks1' or 'luks2'
- encryption=luks2
-+automount=true

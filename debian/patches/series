@@ -4,4 +4,5 @@ Do-not-overwrite-CPPFLAGS.patch
 integration-test-Fix-change-label-test-with-exfatprogs-1..patch
 tests-Fix-expected-error-message-with-util-linux-2.41.patch
 udiskslinuxfilesystemhelpers-Mount-private-mounts-wi.patch
-POLICORP-force-automount-true.patch
+udiskslinuxmanager-Add-lower-bounds-check-to-fd_inde.patch
+nvme-disk-size.patch
