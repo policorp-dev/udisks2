@@ -1,8 +1,15 @@
-udisks2 (2.10.Policorp-1) unstable; urgency=medium
+udisks2 (2.10.1-12.Policorp-1+deb13u1) stable; urgency=medium
 
-  * Force automount
+  * add versao Policorp trixie
 
- -- Edson Juliano Drosdeck <edson@policorp.com.br>  Wed, 02 Jul 2025 16:58:09 +0000
+ -- Lucas Salles <lucas.salles@policorp.com.br>  Wed, 10 Sep 2025 10:03:19 -0400
+
+udisks2 (2.10.1-12.1+deb13u1) trixie-security; urgency=high
+
+  * Non-maintainer upload by the Security Team.
+  * udiskslinuxmanager: Add lower bounds check to fd_index (CVE-2025-8067)
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Wed, 20 Aug 2025 20:51:31 +0200
 
 udisks2 (2.10.1-12.1) unstable; urgency=high
 
